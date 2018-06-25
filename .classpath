@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/h2-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/hibernate-core-5.0.12.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/hibernate-entitymanager-5.0.12.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/jaxb-api-2.3.0-b170201.1204.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/k.dalla/Desktop/libs/postgresql-42.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
